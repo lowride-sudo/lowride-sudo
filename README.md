@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lowride-sudo
+- 👋 Hi, I’m Sergey
 - 👀 I’m interested in Computer Science, Programming, QA-engineering 
 - 🌱 I’m currently learning Python, Selenium
 - 💞️ I’m looking to collaborate on Python.
